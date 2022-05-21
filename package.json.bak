@@ -1,0 +1,11 @@
+{
+	"name": "gulp-scss-workflow",
+	"description": "Gulp SCSS Workflow",
+	"version": "0.0.1",
+	"repository": "",
+	"license": "MIT",
+	"devDependencies": {
+		"gulp": "^4.0.2",
+		"gulp-sass": "^5.1.0"
+	}
+}
